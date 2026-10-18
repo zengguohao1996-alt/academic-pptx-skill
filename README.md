@@ -9,7 +9,6 @@ This skill overrides Claude's default design-forward presentation style and repl
 - Write every slide title as a **complete sentence stating the takeaway** ("action title"), not a topic label
 - Structure the deck as a **logical argument** (situation → complication → resolution), not a collection of independent slides
 - Apply the **ghost deck test**: the action titles alone, read in sequence, should tell the full story
-- Place **one exhibit per results slide** and annotate the key finding directly on the chart
 - Apply **citation standards**: in-text citations on every borrowed figure, a References slide at the end
 - End on a **Conclusions slide** that stays on screen during Q&A — never on "Thank You" or a blank
 - Apply minimal, communication-first design: white backgrounds, single sans-serif font, three colours maximum, no decorative icons
@@ -56,3 +55,4 @@ The guidelines in this skill draw on:
 ## License
 
 MIT — free to use, adapt, and share.
+输出语言为中文。
